@@ -1,4 +1,4 @@
-# Your Intensive Co-learning Name
+# alejandro castro
 
 ## Introduction
 
@@ -14,20 +14,20 @@ Target Audience placeholder
 
 ## Registration Period
 
-- Registration Start Date: 
-- Registration End Date: 
+- Registration Start Date: 2025-10-17
+- Registration End Date: 2025-10-28
 
 ## Study Duration
 
-- Study Start Date: 
-- Study End Date: 
+- Study Start Date: 2025-10-28
+- Study End Date: 2025-10-31
 
 ## Initiator
 
-- Name: 
-- GitHub ID: 
-- Telegram: 
-- Email: 
+- Name: alejandro 
+- GitHub ID: acpm444-hub
+- Telegram: acpm444
+- Email: acpm.444@gmail.com
 
 ## Organizations
 
